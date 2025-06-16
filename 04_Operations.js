@@ -35,7 +35,7 @@ let num1 , num2, num3
 num1 = num2 = num3 = 2+2
 console.table([num1,num2,num3])  // 4 assign to all num
 
-// prefix and post fix
+// prefix and post fix need to revise
 
 let gameValue = 100
 const case1 = ++gameValue
